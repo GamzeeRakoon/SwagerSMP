@@ -5,7 +5,7 @@
 *.dll
 *.so
 *.dylib
-1.18.2/packwiz
+1.19.2/packwiz
 
 # Test binary, build with `go test -c`
 *.test

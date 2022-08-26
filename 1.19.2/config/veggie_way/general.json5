@@ -1,5 +1,15 @@
 {
 	/* ***********************
+	   Seed Drop chances
+	   ***********************
+	*/
+	"quionaFromGrass": 0.029999999329447746,
+	"soybeanFromGrass": 0.029999999329447746,
+	"lentilFromGrass": 0.029999999329447746,
+	"cornFromGrass": 0.029999999329447746,
+	"cottonFromGrass": 0.029999999329447746,
+	"dryingAgentFromSand": 0.11999999731779099,
+	/* ***********************
 	   Food Settings
 	   ***********************
 	*/

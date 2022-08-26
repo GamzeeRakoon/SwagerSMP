@@ -30,19 +30,18 @@
   "effects": {
     "food": true,
     "hidden_motion": true,
-    "hidden_effect_mode": "enchantment",
     "beacon": true,
     "potions": true,
     "tipped_arrows": true,
     "spectral_arrow": true
   },
   "entities": {
-    "spawn_egg": {
+    "fish_bucket": {
       "enabled": true,
       "always_show_name": false,
       "spin": true
     },
-    "mob_spawner": {
+    "spawn_egg": {
       "enabled": true,
       "always_show_name": false,
       "spin": true
@@ -54,12 +53,6 @@
       "spin": true
     },
     "bee": {
-      "enabled": true,
-      "always_show_name": false,
-      "spin": true,
-      "show_honey_level": true
-    },
-    "fish_bucket": {
       "enabled": true,
       "always_show_name": false,
       "spin": true
