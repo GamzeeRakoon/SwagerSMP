@@ -31,11 +31,6 @@ hash = "c47b4e6dea49ed224870b70e2101f7dfea59c63490cca1d5f5a1dd43b18c56ef"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "0d51513c96daf3b13b980ebb7d225a793aceda871a4a69e746927cdd87e75cdf"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "3648ed55ffae5bc153c16b2d414925cc30165b5171aa0e2a146e5ba22366fcf1"
 metafile = true
@@ -97,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "a2bb983e5dffe95d1f92ee19a099ed214f9b3d39c4e9f8eb5991a1a3c7735b45"
+hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
 
 [[files]]
