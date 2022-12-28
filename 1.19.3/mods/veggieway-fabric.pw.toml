@@ -1,0 +1,13 @@
+name = "The Veggie Way [FABRIC]"
+filename = "TheVeggieWay_Fabric-1.19.3-rc1-1.4.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "16ba9fff149f40140d45956642aff8aeda8536bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4127511
+project-id = 380345
