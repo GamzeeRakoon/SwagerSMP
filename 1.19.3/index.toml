@@ -110,17 +110,12 @@ hash = "d4a44f3b5fe2c3e21cf8c5d947ae6e14d387034327a1276def7145fe673bf587"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "c025d2226099f9035bafd0adab1c63f2800dee5aa0c7c047720457f9535439b2"
+hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
 
 [[files]]
 file = "mods/adorn.pw.toml"
 hash = "950e49a84c05b84dc02814b028f26bce1f70d6022fe829d82daf36ba78e5f78b"
-metafile = true
-
-[[files]]
-file = "mods/aurorasdecorations.pw.toml"
-hash = "891174e13d3699d002a267f2a7f232ae7601d667eca1f8646ab4fd5d5aac6d1c"
 metafile = true
 
 [[files]]
@@ -134,16 +129,6 @@ hash = "102baae65f09499fe9881590b64e8f12cbbac22c4b069c437fd200478cd0da64"
 metafile = true
 
 [[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
-metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml"
-hash = "3648ed55ffae5bc153c16b2d414925cc30165b5171aa0e2a146e5ba22366fcf1"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
@@ -151,11 +136,6 @@ metafile = true
 [[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "990f14703c547528f630861e1ea699a1e4aeea4e40581635baa684160b9ad22a"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
-hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
 
 [[files]]
@@ -170,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "099edec50c69be38df1dbdc149a252b122bab35dd3400e6123e1012244871310"
+hash = "6b6203af7dc03a920fb09c81f79340d9d6d1bc9a9f9c3682db49e3b085d54549"
 metafile = true
 
 [[files]]
@@ -185,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "77454bd9cdca6ffd16d96d445021360cbc669481d17abf06bbe1e672d431998a"
+hash = "1ab5733b357d9c788c357802d9052d952699dd905aeed81b41370169fab70c11"
 metafile = true
 
 [[files]]
@@ -195,22 +175,13 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "35430da98294d5f94636277bf9705ada157eb6122d0e8272f5c3cb6ef76ebfd2"
+hash = "0bb13d0459be9af19faf40ea8e83b8bf29922b378dcbe9e430fc7de11d98dac3"
 metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
-
-[[files]]
-file = "mods/lambdabettergrass.pw.toml"
-hash = "0ab0925b9d00ddcf75dc5077fba4eee2c825945a7590750e1821ba783fb26f37"
-metafile = true
-
-[[files]]
-file = "mods/lambdamap-1.0.0-alpha.1+1.19.jar"
-hash = "2f447054b06e64db709d9ee522a507deb57544257dc9b877af97c51945f30cc6"
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
@@ -244,17 +215,17 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "848687370ee00a06ef5f24a0fd71c6c4c83452bd9b003f8edf42807b6439f6fe"
+hash = "ccfc90d276cade7160c905d0751dc8ddd617fcf4dafb62928f524f82757b466a"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "9ecb7fc18ecb0a55843677d4ac0cc6886faeb3ded15a16368828e7aacdb6b166"
+hash = "57a8e4ea389f17fb4a75d8120c9511fed85958bc952e0a32fabc7c3c9138e368"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d9b027d73943feb339c24045c37a36a69198bbffb9511978578f76cfb96b3bd3"
+hash = "cff6e118a7d2649ab479bbcf328d463349cfc8dc4bac3f5025395f34c2b505bb"
 metafile = true
 
 [[files]]
