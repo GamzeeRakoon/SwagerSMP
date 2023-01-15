@@ -129,6 +129,11 @@ hash = "102baae65f09499fe9881590b64e8f12cbbac22c4b069c437fd200478cd0da64"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "86498eb7f9326155844799dc57c1372fc5000b86f046994162cccd2e480a96ed"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
@@ -150,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "6b6203af7dc03a920fb09c81f79340d9d6d1bc9a9f9c3682db49e3b085d54549"
+hash = "00280d9a40ed4cf7666b86b70500036cf94a231bfec80e80b97f5b34af7d5b4c"
 metafile = true
 
 [[files]]
@@ -175,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "0bb13d0459be9af19faf40ea8e83b8bf29922b378dcbe9e430fc7de11d98dac3"
+hash = "7d3727ee323a1e3e6a41719db11e343e0658cc149274b9d4426acc9ae21b1363"
 metafile = true
 
 [[files]]
