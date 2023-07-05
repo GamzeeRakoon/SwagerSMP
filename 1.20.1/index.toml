@@ -163,11 +163,6 @@ hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "866b21af781741c1b38b636b5ae3ae5703b7a513ab9d7a669beaaf6624116aba"
-metafile = true
-
-[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
@@ -230,6 +225,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "5ad04a604b92754fcc7896310f1d201bc9f22bb70901a76504daa265b3f8745c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "fa7940ff6c6d65fede416632132a57518ab1a79e09014410932ed614ea386a70"
 metafile = true
 
 [[files]]
