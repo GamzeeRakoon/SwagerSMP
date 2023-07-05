@@ -1,0 +1,16 @@
+name = "SwagerSMP"
+author = "Gamzee"
+version = "3.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5228e5d48a7a3defa97da69157aa9fac69640502a8b31d8dd7a6649bb642ebb7"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.19.2"
+
+[options]
+acceptable-game-versions = "1.20"

@@ -1,0 +1,249 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/Adorn.json5"
+hash = "6c90f63175a0d64b53d763b490b9929d734730d2fef7b215cccf104c6a8d8dd2"
+
+[[files]]
+file = "config/bobby.conf"
+hash = "b53c14bbef682afb9ad89d42e06c06f093d63923661bb685f6686011f71bbb53"
+
+[[files]]
+file = "config/capes.json5"
+hash = "8d49f2534901886dd05876bc5d411594ac61f0cf4e7eea44a058f92f1139005a"
+
+[[files]]
+file = "config/citresewn-defaults.json"
+hash = "0b333b0bf9a0e573fa14f81610a621b488d5277c9e8f8c6a4c81e6a6cb37e482"
+
+[[files]]
+file = "config/citresewn.json"
+hash = "73ddb74b2b6eea8712e4e201eb2b265f1ed62722a63d640e4cf645cabf9f38bd"
+
+[[files]]
+file = "config/continuity.json"
+hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
+
+[[files]]
+file = "config/dynamicfps.toml"
+hash = "f7cc1b3a4d744983d4782c26161ccf7b68502b2d250f890d00b8153d8e99214c"
+
+[[files]]
+file = "config/editsign.json"
+hash = "cdaa38de39f50b1bcdb2e0c5541cf110779122c2a25127c551a85cea8244353b"
+
+[[files]]
+file = "config/emi.css"
+hash = "63218357bd51cfd52cfceecf35f31c7dfd329e8d4243ab981ee312d8884a1955"
+
+[[files]]
+file = "config/enhanced_bes.properties"
+hash = "d1526a71aebaef76bd38dbc4b7541af2ea65a7ef0ee7e42e55516e2676f5a7d3"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "0b3492db5f32c29e8d81473053162c9340a7516db11ed3b4a04822804015afe1"
+
+[[files]]
+file = "config/fallingleaves.json"
+hash = "7257fa183a7afa3946eaa6aac387c9a8e533c86a23084b505597df177a741863"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "b95fd739ebab8995117722aaac90aab6bea1aeec3a29b5170e332a69dc6408b6"
+
+[[files]]
+file = "config/indium-renderer.properties"
+hash = "289b2d5975109a496bcdab4c047b276a2a21cfd24e72cfc9b63b3ebe13c7b800"
+
+[[files]]
+file = "config/inspecio.json"
+hash = "25ff404af9fb43fcdfd85ea975d4eeae076be3fb57a35f760a78e53fd87e49b4"
+
+[[files]]
+file = "config/iris.properties"
+hash = "3f8135bd1ca4108cdc1397049e5d961b4fa31f89adba5bacb1446a515e4a4baf"
+
+[[files]]
+file = "config/lambdabettergrass.toml"
+hash = "71f8657fa67d9b11264366d2e8726098d6d86887e63f14e2cbce82532a2f84be"
+
+[[files]]
+file = "config/lambdynlights.toml"
+hash = "c41ef23d6a1c9fd037a281de6d39193d89195adacffb6fc9fa9dbfc1f3f48b1f"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "22de2cf059365108a1ad38169f3840c73cec8840534cc9aff7fedd0e4f5a5622"
+
+[[files]]
+file = "config/ok_zoomer/config.toml"
+hash = "e260f581afd5260aa6c5ee7a17f97aef6e2dcff8794cec878714fb3b537d2ee4"
+
+[[files]]
+file = "config/quilt/qsl/registry.toml"
+hash = "0f2c10192ede2fa16b40ae6e03143731a4050599c2e4d0637401c7e9f3594764"
+
+[[files]]
+file = "config/rrp.properties"
+hash = "094f52cd9462538779d713bde300a7de7dc4cfdab31c350dd5920677e4bf62f9"
+
+[[files]]
+file = "config/skinlayers.json"
+hash = "55e1e98eae07027f2e91e6ba4f6cfd9973e61461a2bb3e30fb58e0648a55275c"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "bc2c4289cffd99b357e8864f2c9877b20cdc560d8cb37a73305b14feba4c7fc6"
+
+[[files]]
+file = "config/veggie_way/general.json5"
+hash = "d4a44f3b5fe2c3e21cf8c5d947ae6e14d387034327a1276def7145fe673bf587"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "05ac5655886661106bb34a8a898d47fd317577f7f44519693be882c7a73c64b8"
+metafile = true
+
+[[files]]
+file = "mods/adorn.pw.toml"
+hash = "cacfa864fbcef1fe67e225eec84733b86c130d2cc218c9a492c10e7f332a33f5"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "56e43a6d3b2f91b41552a09488b6ec374aa0c5796c9d55a1148c17c562949142"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b9cc3ddd40c728549f8de8db2b211a534303018bf8c18d22871ad17f62c47118"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "c8c6a3893859d2f0e04ebf400c8ce8b47de21cfe6097996b5dde1561e92f3c80"
+metafile = true
+
+[[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "13a1357c0e5f6a3bd2978c80c405909b0654079a3f29d8f02fdc30f985f17f9b"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
+file = "mods/elytra_trinket.pw.toml"
+hash = "83fdf26679f1a8c79b0b87e2581154415a9e753e133e35def882fb7b1644b948"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "62ba442e767de89381f384df293bf1aca9b2272e83862b9893748f5a598523c6"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "7d160f2096db6f3530dd5d35719b5362e8f3c0e2ac13d1f2412221d1a762f40f"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "45ad54cce889a3327cc38e244b140552c8a8616068885c26f05d4edc0a0456f0"
+metafile = true
+
+[[files]]
+file = "mods/inspecio.pw.toml"
+hash = "280af6886fbdec37ccfab4d8a7cbd2d3777a198a5fa0d2ec15dc9b9c8b0eff67"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "79b5821cecd73ba5167a6b152c78df308b1208e9f2c27885a6bde69910b1310f"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "8bb36bbf7dbac0d531f6c308329109d29d95a83a2c0d972178655efd8afddf4b"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "23583083d03c8effa3dca4c17c7da2fcf57d653292b02898afe8d7029be6b0d7"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "02343a477f6f4ffd9cbedd4f93252f443c599b2f8d250037920d3a47f5756e6a"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "4f5bc996ba57f18abd2dc12801f1cbb8d06d3d115232b15d27174172f4d4004f"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
+metafile = true
+
+[[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "d881b77b7acaaa149d385bbfe00f95135add06d8153a76e569a119fbc33e4d25"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "5ad04a604b92754fcc7896310f1d201bc9f22bb70901a76504daa265b3f8745c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-64x.pw.toml"
+hash = "f4a591edee7b9e24db0e5118e0c634d60d2736c2898de1a8cffacfab185b9a1a"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "ce18d14782c7d414c416de2b2613369c23d39a85c252f81ed1073816d5587b44"
+metafile = true
