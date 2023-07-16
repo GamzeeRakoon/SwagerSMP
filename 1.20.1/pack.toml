@@ -1,12 +1,12 @@
 name = "SwagerSMP"
 author = "Gamzee"
-version = "3.0.5"
+version = "3.0.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b2df3f4312a35cc82b5f4ccfa0080c5d65b0be1eaa57138f82b80d3db03c32b9"
+hash = "deb333cc06558c57d9cfcde38832b7b4d387f1792c09a63045ec6d03e497c6a7"
 
 [versions]
 minecraft = "1.20.1"
