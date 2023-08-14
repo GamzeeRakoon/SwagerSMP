@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.3.3](https://github.com/GamzeeRakoon/SwagerSMP/compare/v3.3.2...v3.3.3) (2023-08-14)
+
+
+### Bug Fixes
+
+* Update forgoten configs ([0f1ce8e](https://github.com/GamzeeRakoon/SwagerSMP/commit/0f1ce8eea60f583ac6720bd9e46de4ad75e9fb37))
+
 ## [3.3.2](https://github.com/GamzeeRakoon/SwagerSMP/compare/v1.0.0...v3.3.2) (2023-08-14)
 
 
