@@ -1,1 +1,3 @@
 - Update Aurora's decorations
+- Update Sodium
+- Update Iris
