@@ -1,0 +1,1 @@
+- Update Aurora's decorations

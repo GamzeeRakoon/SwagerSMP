@@ -1,3 +1,4 @@
+name: Modpack Update Mods Pipeline
 on:
   workflow_dispatch:
 
@@ -21,7 +22,9 @@ jobs:
           version: 'linux'
 
       - name: Update Mods with Packwiz
-        run: packwiz update -a
+        run: packwiz update -a -y
       
       - name: Push the updated mod list
         uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+            commit_message: "chore(pack): updated mods"
