@@ -5,5 +5,6 @@ ARCHIVED 1.17.1: [download](https://github.com/LithRakoon/SwagerSMP/raw/1.17.1/M
 
 ACTIVE 1.18.2: [download](https://github.com/LithRakoon/SwagerSMP/raw/main/Modpack/SwagerSMP%201.18.2.zip)
 
-this modpack is making use of packwiz
+This modpack is making use of packwiz and mc-modpack-kit
 https://github.com/comp500/packwiz
+https://github.com/jh-devv/mc-modpack-kit
