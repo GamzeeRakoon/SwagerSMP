@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.3.2](https://github.com/GamzeeRakoon/SwagerSMP/compare/v1.0.0...v3.3.2) (2023-08-14)
+
+
+### Features
+
+* Update config ([a4cd4f0](https://github.com/GamzeeRakoon/SwagerSMP/commit/a4cd4f0b6f60878dd345bdcbfe11180e32a3243a))
+
+
+### Miscellaneous Chores
+
+* release 3.3.2 ([6a9624c](https://github.com/GamzeeRakoon/SwagerSMP/commit/6a9624ca43f31da6e5e988949339ddf5edf5f73c))
+
 ## 1.0.0 (2023-08-14)
 
 
