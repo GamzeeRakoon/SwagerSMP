@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.4.0](https://github.com/GamzeeRakoon/SwagerSMP/compare/v3.3.3...v3.4.0) (2023-08-19)
+
+
+### Features
+
+* Readd Bobby ([db58c2c](https://github.com/GamzeeRakoon/SwagerSMP/commit/db58c2c1225cf279ebbbd53708cc01c8262a59c2))
+* update modpack version ([97b9a22](https://github.com/GamzeeRakoon/SwagerSMP/commit/97b9a227c38af64297f0401d4f3f143e77ead909))
+
 ## [3.3.3](https://github.com/GamzeeRakoon/SwagerSMP/compare/v3.3.2...v3.3.3) (2023-08-14)
 
 
